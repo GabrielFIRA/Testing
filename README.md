@@ -2,6 +2,6 @@
 
 Hello world.
 
-##subheader
+## subheader
 
 Bruh this is insane
